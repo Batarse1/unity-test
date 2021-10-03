@@ -4,8 +4,14 @@ using UnityEngine.UI;
 public class Slot : MonoBehaviour
 {
     public Image icon;
+    private Transform player;
 
     Item item;
+
+    public void setPlayer(Transform player)
+    {
+        this.player = player;
+    }
 
     public void AddItem(Item newItem)
     {
@@ -26,7 +32,8 @@ public class Slot : MonoBehaviour
     public void OnRemoveButton()
     {
         if(item != null){
-            Debug.Log("Removing " + item.name);
+            Debug.Log("Removing " + item.prefab);
+            Instantiate(item.prefab, player.position + Vector3.down * 1.0f, Quaternion.identity);
         }
         Inventory.instance.Remove(item);
     }

@@ -6,6 +6,7 @@ public class InventoryManager : MonoBehaviour
 {
     public Transform itemsParent;
     public GameObject inventoryUI;
+    public Transform player;
 
     Inventory inventory;
 
@@ -36,6 +37,7 @@ public class InventoryManager : MonoBehaviour
             if(i < inventory.items.Count)
             {
                 slots[i].AddItem(inventory.items[i]);
+                slots[i].setPlayer(player);
             }
             else
             {

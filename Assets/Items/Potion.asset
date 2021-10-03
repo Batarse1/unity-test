@@ -14,4 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: potion
   image: {fileID: 149497545074640929, guid: 481a5718cb747164f9f79f100e8545dc, type: 3}
+  prefab: {fileID: 3744274913026218640, guid: 3c0905c5a15fb2d47be3d77f961a60c5, type: 3}
   isDefaultItem: 0

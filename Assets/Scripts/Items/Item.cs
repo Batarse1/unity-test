@@ -7,6 +7,7 @@ public class Item : ScriptableObject
 {
     new public string name = "New item";
     public Sprite image = null;
+    public Transform prefab = null;
     public bool isDefaultItem = false;
 
     public virtual void Use()

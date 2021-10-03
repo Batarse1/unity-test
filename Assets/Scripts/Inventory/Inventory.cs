@@ -26,12 +26,12 @@ public class Inventory : MonoBehaviour
     public OnItemChanged onItemChangedCallback;
 
     public List<Item> items = new List<Item>();
-    private int maxSpace = 12;
+    private int itemsMaxSpace = 12;
     public bool Add(Item item)
     {
         if (!item.isDefaultItem)
         {
-            if (!(maxSpace > items.Count))
+            if (!(itemsMaxSpace > items.Count))
             {
                 Debug.Log("Not enough space");
                 return false;

@@ -34,8 +34,8 @@ public class Slot : MonoBehaviour
         if(item != null){
             Debug.Log("Removing " + item.prefab);
             Instantiate(item.prefab, player.position + Vector3.down * 1.0f, Quaternion.identity);
+            Inventory.instance.Remove(item);
         }
-        Inventory.instance.Remove(item);
     }
 
     public void UseItem()
@@ -50,7 +50,11 @@ public class Slot : MonoBehaviour
     {
         if (item != null)
         {
-            Debug.Log("Crafting with " + item.name);
+            if (Inventory.instance.AddCraftingItem(item))
+            {
+                Debug.Log("Crafting with " + item.name);
+                Inventory.instance.Remove(item);
+            }
         }
     }
 }

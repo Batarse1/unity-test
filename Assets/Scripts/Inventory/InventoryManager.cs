@@ -4,24 +4,31 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
-    public Transform itemsParent;
     public GameObject inventoryUI;
+
     public Transform player;
+    public Transform itemsParent;
+    public Transform craftingItemsParent;
+    public Product craftingProduct;
+
+    public Item bigPotion;
 
     Inventory inventory;
 
     Slot[] slots;
+    CraftingSlot[] craftingSlots;
 
-    // Start is called before the first frame update
     void Start()
     {
         inventory = Inventory.instance;
+
         inventory.onItemChangedCallback += UpdateUI;
+        inventory.onCraftingItemChangedCallback += UpdateCraftingUI;
 
         slots = itemsParent.GetComponentsInChildren<Slot>();
+        craftingSlots = craftingItemsParent.GetComponentsInChildren<CraftingSlot>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetButtonDown("Inventory"))
@@ -43,6 +50,37 @@ public class InventoryManager : MonoBehaviour
             {
                 slots[i].ClearSlot();
             }
+        }
+    }
+
+    void UpdateCraftingUI()
+    {
+        for (int i = 0; i < craftingSlots.Length; i++)
+        {
+            if (i < inventory.craftingItems.Count)
+            {
+                craftingSlots[i].AddItem(inventory.craftingItems[i]);
+            }
+            else
+            {
+                craftingSlots[i].ClearSlot();
+            }
+        }
+
+        if (craftingSlots[0].isNotNull() && craftingSlots[1].isNotNull() && craftingSlots[2].isNotNull())
+        {
+            if (craftingSlots[0].GetName().Equals("potion") && craftingSlots[1].GetName().Equals("potion") && craftingSlots[2].GetName().Equals("potion"))
+            {
+                craftingProduct.Craft(bigPotion);
+            }
+            else
+            {
+                craftingProduct.CraftNone();
+            }
+        }
+        else
+        {
+            craftingProduct.CraftNone();
         }
     }
 }

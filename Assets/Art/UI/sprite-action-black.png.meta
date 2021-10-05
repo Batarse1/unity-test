@@ -1,0 +1,7380 @@
+fileFormatVersion: 2
+guid: 128561cd616a3084698eefdd040ac45a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7309755866545863505
+    second: sprite-action-black_0
+  - first:
+      213: -6553841261109991048
+    second: sprite-action-black_1
+  - first:
+      213: 2809207395806059681
+    second: sprite-action-black_2
+  - first:
+      213: -4198003786230605504
+    second: sprite-action-black_3
+  - first:
+      213: 8456565657920288897
+    second: sprite-action-black_4
+  - first:
+      213: -3069866766281252571
+    second: sprite-action-black_5
+  - first:
+      213: -8959302411783617294
+    second: sprite-action-black_6
+  - first:
+      213: -8984059508451949966
+    second: sprite-action-black_7
+  - first:
+      213: 4827101725738154530
+    second: sprite-action-black_8
+  - first:
+      213: -2383529161368864532
+    second: sprite-action-black_9
+  - first:
+      213: 6859911461972117077
+    second: sprite-action-black_10
+  - first:
+      213: 4285678000147578590
+    second: sprite-action-black_11
+  - first:
+      213: 1408731686020191180
+    second: sprite-action-black_12
+  - first:
+      213: 1363102515024005486
+    second: sprite-action-black_13
+  - first:
+      213: 5241782847503801495
+    second: sprite-action-black_14
+  - first:
+      213: 3361381223614546972
+    second: sprite-action-black_15
+  - first:
+      213: 8176544052475710251
+    second: sprite-action-black_16
+  - first:
+      213: -8096205514543160011
+    second: sprite-action-black_17
+  - first:
+      213: -5330519053064517732
+    second: sprite-action-black_18
+  - first:
+      213: 5086142898549700325
+    second: sprite-action-black_19
+  - first:
+      213: 7126738564479047190
+    second: sprite-action-black_20
+  - first:
+      213: 6246874212853005585
+    second: sprite-action-black_21
+  - first:
+      213: -4142817727786888170
+    second: sprite-action-black_22
+  - first:
+      213: 1600242652076069216
+    second: sprite-action-black_23
+  - first:
+      213: 2472771695814324710
+    second: sprite-action-black_24
+  - first:
+      213: 2704357617565353776
+    second: sprite-action-black_25
+  - first:
+      213: -6793563414638711465
+    second: sprite-action-black_26
+  - first:
+      213: 4363511970335486191
+    second: sprite-action-black_27
+  - first:
+      213: -2048828089476607968
+    second: sprite-action-black_28
+  - first:
+      213: 6901469642225678938
+    second: sprite-action-black_29
+  - first:
+      213: -5175114347822693327
+    second: sprite-action-black_30
+  - first:
+      213: 6633115028150672611
+    second: sprite-action-black_31
+  - first:
+      213: 7708722971812108589
+    second: sprite-action-black_32
+  - first:
+      213: 6236752852923707424
+    second: sprite-action-black_33
+  - first:
+      213: -705397765723506312
+    second: sprite-action-black_34
+  - first:
+      213: 4260871603828196418
+    second: sprite-action-black_35
+  - first:
+      213: -2329737943817110238
+    second: sprite-action-black_36
+  - first:
+      213: 5479484580405957862
+    second: sprite-action-black_37
+  - first:
+      213: 5453858773159446115
+    second: sprite-action-black_38
+  - first:
+      213: 6605887134823186519
+    second: sprite-action-black_39
+  - first:
+      213: 3298501205654637714
+    second: sprite-action-black_40
+  - first:
+      213: 1047417301775780190
+    second: sprite-action-black_41
+  - first:
+      213: 5337659983337662101
+    second: sprite-action-black_42
+  - first:
+      213: -6633218953376635295
+    second: sprite-action-black_43
+  - first:
+      213: -5390883308162455624
+    second: sprite-action-black_44
+  - first:
+      213: 882591888161383016
+    second: sprite-action-black_45
+  - first:
+      213: 366926238627726581
+    second: sprite-action-black_46
+  - first:
+      213: 7570005398028785973
+    second: sprite-action-black_47
+  - first:
+      213: 6811586045875143715
+    second: sprite-action-black_48
+  - first:
+      213: -8557374144451089499
+    second: sprite-action-black_49
+  - first:
+      213: 195584296274881255
+    second: sprite-action-black_50
+  - first:
+      213: -8674385374606366423
+    second: sprite-action-black_51
+  - first:
+      213: -3599074178623288709
+    second: sprite-action-black_52
+  - first:
+      213: 3055173547122937474
+    second: sprite-action-black_53
+  - first:
+      213: 8802306498781386937
+    second: sprite-action-black_54
+  - first:
+      213: 5306241141506760966
+    second: sprite-action-black_55
+  - first:
+      213: -1049063370074909154
+    second: sprite-action-black_56
+  - first:
+      213: -1829479994122340862
+    second: sprite-action-black_57
+  - first:
+      213: 675383265785395737
+    second: sprite-action-black_58
+  - first:
+      213: 2460654182398417251
+    second: sprite-action-black_59
+  - first:
+      213: 9045722102314792870
+    second: sprite-action-black_60
+  - first:
+      213: -7249156437398501797
+    second: sprite-action-black_61
+  - first:
+      213: 1278572904658237998
+    second: sprite-action-black_62
+  - first:
+      213: -4967242822442450220
+    second: sprite-action-black_63
+  - first:
+      213: -3513481264878801455
+    second: sprite-action-black_64
+  - first:
+      213: -940424381623271429
+    second: sprite-action-black_65
+  - first:
+      213: 4541052710902837758
+    second: sprite-action-black_66
+  - first:
+      213: -658888675217734192
+    second: sprite-action-black_67
+  - first:
+      213: 5719002152769028438
+    second: sprite-action-black_68
+  - first:
+      213: 3599174997609119262
+    second: sprite-action-black_69
+  - first:
+      213: 1808713169870298651
+    second: sprite-action-black_70
+  - first:
+      213: -3835258867117335777
+    second: sprite-action-black_71
+  - first:
+      213: -5603959536973318979
+    second: sprite-action-black_72
+  - first:
+      213: -4246310314269730624
+    second: sprite-action-black_73
+  - first:
+      213: 7904097649802854736
+    second: sprite-action-black_74
+  - first:
+      213: 8831035574453936305
+    second: sprite-action-black_75
+  - first:
+      213: 2183705296762467423
+    second: sprite-action-black_76
+  - first:
+      213: -3332528492791885014
+    second: sprite-action-black_77
+  - first:
+      213: 8384811768677608645
+    second: sprite-action-black_78
+  - first:
+      213: 4767224445723281627
+    second: sprite-action-black_79
+  - first:
+      213: -3265090051582503819
+    second: sprite-action-black_80
+  - first:
+      213: 7853657394234976132
+    second: sprite-action-black_81
+  - first:
+      213: -6525042227675004088
+    second: sprite-action-black_82
+  - first:
+      213: 1987536822837688401
+    second: sprite-action-black_83
+  - first:
+      213: 2067401690273158178
+    second: sprite-action-black_84
+  - first:
+      213: 335084282377720473
+    second: sprite-action-black_85
+  - first:
+      213: -5192051251319180224
+    second: sprite-action-black_86
+  - first:
+      213: 6716803229880303411
+    second: sprite-action-black_87
+  - first:
+      213: -218064776056471382
+    second: sprite-action-black_88
+  - first:
+      213: -4101604298876498625
+    second: sprite-action-black_89
+  - first:
+      213: -3299489608337488143
+    second: sprite-action-black_90
+  - first:
+      213: -4493497308869834450
+    second: sprite-action-black_91
+  - first:
+      213: 54381076366359070
+    second: sprite-action-black_92
+  - first:
+      213: -8498776197015852308
+    second: sprite-action-black_93
+  - first:
+      213: -2962471828604437878
+    second: sprite-action-black_94
+  - first:
+      213: -2644682091464558613
+    second: sprite-action-black_95
+  - first:
+      213: -2907929261737525200
+    second: sprite-action-black_96
+  - first:
+      213: -1663718556655558069
+    second: sprite-action-black_97
+  - first:
+      213: -6811471866319872387
+    second: sprite-action-black_98
+  - first:
+      213: 643222677991170456
+    second: sprite-action-black_99
+  - first:
+      213: 4940718931148575295
+    second: sprite-action-black_100
+  - first:
+      213: 1312142115002251432
+    second: sprite-action-black_101
+  - first:
+      213: 5133956075467408097
+    second: sprite-action-black_102
+  - first:
+      213: 1932752929345664284
+    second: sprite-action-black_103
+  - first:
+      213: -9193573129737796349
+    second: sprite-action-black_104
+  - first:
+      213: 4838767744387694668
+    second: sprite-action-black_105
+  - first:
+      213: 8302128719843184267
+    second: sprite-action-black_106
+  - first:
+      213: -5084211483832199580
+    second: sprite-action-black_107
+  - first:
+      213: -584930473649381737
+    second: sprite-action-black_108
+  - first:
+      213: 26564150586232148
+    second: sprite-action-black_109
+  - first:
+      213: 7062364844136735193
+    second: sprite-action-black_110
+  - first:
+      213: -5973187416642896296
+    second: sprite-action-black_111
+  - first:
+      213: -4208211661077408740
+    second: sprite-action-black_112
+  - first:
+      213: -5983980304291603809
+    second: sprite-action-black_113
+  - first:
+      213: -2864376892002107535
+    second: sprite-action-black_114
+  - first:
+      213: -4023968828893455086
+    second: sprite-action-black_115
+  - first:
+      213: 5449784938744574450
+    second: sprite-action-black_116
+  - first:
+      213: -7186295671177676287
+    second: sprite-action-black_117
+  - first:
+      213: 3613898849446997803
+    second: sprite-action-black_118
+  - first:
+      213: -5632100317120160877
+    second: sprite-action-black_119
+  - first:
+      213: 5876536728447501589
+    second: sprite-action-black_120
+  - first:
+      213: -1288350673208150901
+    second: sprite-action-black_121
+  - first:
+      213: 396806964737737895
+    second: sprite-action-black_122
+  - first:
+      213: 2109508479286504522
+    second: sprite-action-black_123
+  - first:
+      213: -1968052573314433678
+    second: sprite-action-black_124
+  - first:
+      213: 1945760323101810235
+    second: sprite-action-black_125
+  - first:
+      213: 1068562249835882301
+    second: sprite-action-black_126
+  - first:
+      213: 5422786158517088341
+    second: sprite-action-black_127
+  - first:
+      213: 1375461279073198460
+    second: sprite-action-black_128
+  - first:
+      213: 8962809000198291016
+    second: sprite-action-black_129
+  - first:
+      213: -7081246530261798903
+    second: sprite-action-black_130
+  - first:
+      213: -2402909559605839740
+    second: sprite-action-black_131
+  - first:
+      213: 5896730534189598832
+    second: sprite-action-black_132
+  - first:
+      213: -1684484190307576229
+    second: sprite-action-black_133
+  - first:
+      213: 1204165528283473609
+    second: sprite-action-black_134
+  - first:
+      213: 5538396338743408218
+    second: sprite-action-black_135
+  - first:
+      213: 5020719026594602441
+    second: sprite-action-black_136
+  - first:
+      213: -8578029360726063296
+    second: sprite-action-black_137
+  - first:
+      213: 2935632012225061249
+    second: sprite-action-black_138
+  - first:
+      213: 5615637093777126235
+    second: sprite-action-black_139
+  - first:
+      213: -3071555810780660403
+    second: sprite-action-black_140
+  - first:
+      213: 6499545122430590657
+    second: sprite-action-black_141
+  - first:
+      213: -2914659309076769906
+    second: sprite-action-black_142
+  - first:
+      213: 685963108622780263
+    second: sprite-action-black_143
+  - first:
+      213: -1093345059219229598
+    second: sprite-action-black_144
+  - first:
+      213: 6746942402354578502
+    second: sprite-action-black_145
+  - first:
+      213: 5416210763894474201
+    second: sprite-action-black_146
+  - first:
+      213: -1026257204029147826
+    second: sprite-action-black_147
+  - first:
+      213: 5870164644143321745
+    second: sprite-action-black_148
+  - first:
+      213: 4744623256518766747
+    second: sprite-action-black_149
+  - first:
+      213: 4018538475420272508
+    second: sprite-action-black_150
+  - first:
+      213: 6058343647622482329
+    second: sprite-action-black_151
+  - first:
+      213: -4829705992090441962
+    second: sprite-action-black_152
+  - first:
+      213: 3746273231700921674
+    second: sprite-action-black_153
+  - first:
+      213: -6951304041286646546
+    second: sprite-action-black_154
+  - first:
+      213: -2315261118994547497
+    second: sprite-action-black_155
+  - first:
+      213: -4492151721016722539
+    second: sprite-action-black_156
+  - first:
+      213: -3823830966055547995
+    second: sprite-action-black_157
+  - first:
+      213: -8713028215710608823
+    second: sprite-action-black_158
+  - first:
+      213: -5013927078817054638
+    second: sprite-action-black_159
+  - first:
+      213: -5642736566279751952
+    second: sprite-action-black_160
+  - first:
+      213: 5580067878921782363
+    second: sprite-action-black_161
+  - first:
+      213: -7894522300499422467
+    second: sprite-action-black_162
+  - first:
+      213: -5301962473689492153
+    second: sprite-action-black_163
+  - first:
+      213: 4516337666646406898
+    second: sprite-action-black_164
+  - first:
+      213: 7372933370634214034
+    second: sprite-action-black_165
+  - first:
+      213: 2326737751762448654
+    second: sprite-action-black_166
+  - first:
+      213: 6414194512809049702
+    second: sprite-action-black_167
+  - first:
+      213: 5253973254047848683
+    second: sprite-action-black_168
+  - first:
+      213: 7896559681156198765
+    second: sprite-action-black_169
+  - first:
+      213: 67911140343399777
+    second: sprite-action-black_170
+  - first:
+      213: 5570483483005005270
+    second: sprite-action-black_171
+  - first:
+      213: 8491321635036061524
+    second: sprite-action-black_172
+  - first:
+      213: 6408743736726447284
+    second: sprite-action-black_173
+  - first:
+      213: -1236542692236855320
+    second: sprite-action-black_174
+  - first:
+      213: 8833264841903354688
+    second: sprite-action-black_175
+  - first:
+      213: 5847919272505550046
+    second: sprite-action-black_176
+  - first:
+      213: 564891956648357883
+    second: sprite-action-black_177
+  - first:
+      213: 6086094400551044527
+    second: sprite-action-black_178
+  - first:
+      213: -2487928289584917483
+    second: sprite-action-black_179
+  - first:
+      213: 645162722508818688
+    second: sprite-action-black_180
+  - first:
+      213: 1530297803702851332
+    second: sprite-action-black_181
+  - first:
+      213: -6349566403811957074
+    second: sprite-action-black_182
+  - first:
+      213: 8242690736386494014
+    second: sprite-action-black_183
+  - first:
+      213: 2139163710744366868
+    second: sprite-action-black_184
+  - first:
+      213: -6668766283865295199
+    second: sprite-action-black_185
+  - first:
+      213: -4800682466335424920
+    second: sprite-action-black_186
+  - first:
+      213: -7238542489796863763
+    second: sprite-action-black_187
+  - first:
+      213: -8752106695425896361
+    second: sprite-action-black_188
+  - first:
+      213: 3695841730914705644
+    second: sprite-action-black_189
+  - first:
+      213: -2787745753741521497
+    second: sprite-action-black_190
+  - first:
+      213: -5221363820182918046
+    second: sprite-action-black_191
+  - first:
+      213: 2527662955082917110
+    second: sprite-action-black_192
+  - first:
+      213: -423523771028116468
+    second: sprite-action-black_193
+  - first:
+      213: -3463249523129543493
+    second: sprite-action-black_194
+  - first:
+      213: 7019036707923949699
+    second: sprite-action-black_195
+  - first:
+      213: 3569263287623397333
+    second: sprite-action-black_196
+  - first:
+      213: -3937970341837578410
+    second: sprite-action-black_197
+  - first:
+      213: -2748319064299039691
+    second: sprite-action-black_198
+  - first:
+      213: 1060667115012698906
+    second: sprite-action-black_199
+  - first:
+      213: 5077232841198305267
+    second: sprite-action-black_200
+  - first:
+      213: -2190251830497344791
+    second: sprite-action-black_201
+  - first:
+      213: 5285306847760759553
+    second: sprite-action-black_202
+  - first:
+      213: 6114609465309688713
+    second: sprite-action-black_203
+  - first:
+      213: 8278067956462242616
+    second: sprite-action-black_204
+  - first:
+      213: 6891086261056379
+    second: sprite-action-black_205
+  - first:
+      213: -2765828049312303239
+    second: sprite-action-black_206
+  - first:
+      213: 5754553896322683025
+    second: sprite-action-black_207
+  - first:
+      213: -2882383824966832224
+    second: sprite-action-black_208
+  - first:
+      213: 5473493271098155509
+    second: sprite-action-black_209
+  - first:
+      213: 8507969586849526058
+    second: sprite-action-black_210
+  - first:
+      213: 2871292391476820615
+    second: sprite-action-black_211
+  - first:
+      213: 3235876830313142140
+    second: sprite-action-black_212
+  - first:
+      213: -7404037901944624609
+    second: sprite-action-black_213
+  - first:
+      213: -4206468978067483844
+    second: sprite-action-black_214
+  - first:
+      213: 5055097242615796754
+    second: sprite-action-black_215
+  - first:
+      213: 3171434052993395454
+    second: sprite-action-black_216
+  - first:
+      213: -7180492684629229696
+    second: sprite-action-black_217
+  - first:
+      213: 4202949012178237973
+    second: sprite-action-black_218
+  - first:
+      213: 5979071994337385942
+    second: sprite-action-black_219
+  - first:
+      213: 8282483407531575165
+    second: sprite-action-black_220
+  - first:
+      213: -7398148519234964045
+    second: sprite-action-black_221
+  - first:
+      213: -6610932421035024728
+    second: sprite-action-black_222
+  - first:
+      213: -5544614296859078770
+    second: sprite-action-black_223
+  - first:
+      213: -4605672804887098884
+    second: sprite-action-black_224
+  - first:
+      213: 6547289547396693680
+    second: sprite-action-black_225
+  - first:
+      213: 1546811687064593269
+    second: sprite-action-black_226
+  - first:
+      213: -8493067647179300274
+    second: sprite-action-black_227
+  - first:
+      213: 2522358522763205258
+    second: sprite-action-black_228
+  - first:
+      213: -7311268212830482090
+    second: sprite-action-black_229
+  - first:
+      213: -5201463639061802132
+    second: sprite-action-black_230
+  - first:
+      213: -6656711977316911629
+    second: sprite-action-black_231
+  - first:
+      213: -6428887710611333823
+    second: sprite-action-black_232
+  - first:
+      213: 5076098473705607973
+    second: sprite-action-black_233
+  - first:
+      213: 1579274506986038478
+    second: sprite-action-black_234
+  - first:
+      213: 4271922533575118591
+    second: sprite-action-black_235
+  - first:
+      213: -1174757801045958193
+    second: sprite-action-black_236
+  - first:
+      213: -7921174841674567350
+    second: sprite-action-black_237
+  - first:
+      213: -2587809289313845089
+    second: sprite-action-black_238
+  - first:
+      213: -4651380629928922426
+    second: sprite-action-black_239
+  - first:
+      213: 8050491502807961535
+    second: sprite-action-black_240
+  - first:
+      213: 3885849995559982387
+    second: sprite-action-black_241
+  - first:
+      213: 7861337657152754141
+    second: sprite-action-black_242
+  - first:
+      213: 7933241724315553088
+    second: sprite-action-black_243
+  - first:
+      213: -1589163695846049154
+    second: sprite-action-black_244
+  - first:
+      213: 7150439384366152301
+    second: sprite-action-black_245
+  - first:
+      213: 5792495519634728858
+    second: sprite-action-black_246
+  - first:
+      213: 8034946942143794517
+    second: sprite-action-black_247
+  - first:
+      213: 7649250469100455410
+    second: sprite-action-black_248
+  - first:
+      213: -6046437952869240881
+    second: sprite-action-black_249
+  - first:
+      213: -6343726093795149626
+    second: sprite-action-black_250
+  - first:
+      213: 2941990853844239241
+    second: sprite-action-black_251
+  - first:
+      213: -5659321421016319941
+    second: sprite-action-black_252
+  - first:
+      213: -2281702248712775840
+    second: sprite-action-black_253
+  - first:
+      213: 5356387238851386970
+    second: sprite-action-black_254
+  - first:
+      213: -8167893272928393378
+    second: sprite-action-black_255
+  - first:
+      213: 8328742676744044487
+    second: sprite-action-black_256
+  - first:
+      213: -4319336566601129364
+    second: sprite-action-black_257
+  - first:
+      213: -2899242703600919440
+    second: sprite-action-black_258
+  - first:
+      213: 8540549869141742633
+    second: sprite-action-black_259
+  - first:
+      213: -7798354058392365066
+    second: sprite-action-black_260
+  - first:
+      213: -4376219626762508807
+    second: sprite-action-black_261
+  - first:
+      213: -4765402546041597361
+    second: sprite-action-black_262
+  - first:
+      213: 2396593192811818108
+    second: sprite-action-black_263
+  - first:
+      213: -4696081791478332998
+    second: sprite-action-black_264
+  - first:
+      213: 1930501281511977998
+    second: sprite-action-black_265
+  - first:
+      213: 2553070203825807653
+    second: sprite-action-black_266
+  - first:
+      213: 7515112278821896987
+    second: sprite-action-black_267
+  - first:
+      213: 6672630977234580938
+    second: sprite-action-black_268
+  - first:
+      213: -2366554982297998705
+    second: sprite-action-black_269
+  - first:
+      213: 9155904890357300728
+    second: sprite-action-black_270
+  - first:
+      213: 8057170591732630792
+    second: sprite-action-black_271
+  - first:
+      213: 5832229125822691162
+    second: sprite-action-black_272
+  - first:
+      213: 4190054249835554460
+    second: sprite-action-black_273
+  - first:
+      213: 4644514823392975326
+    second: sprite-action-black_274
+  - first:
+      213: -4663302757117573934
+    second: sprite-action-black_275
+  - first:
+      213: 362399073973114054
+    second: sprite-action-black_276
+  - first:
+      213: 3352099462893690569
+    second: sprite-action-black_277
+  - first:
+      213: -7446399831932390071
+    second: sprite-action-black_278
+  - first:
+      213: -2507803924544617211
+    second: sprite-action-black_279
+  - first:
+      213: 5873394415330379891
+    second: sprite-action-black_280
+  - first:
+      213: 3672560994432152583
+    second: sprite-action-black_281
+  - first:
+      213: 1581605594322178159
+    second: sprite-action-black_282
+  - first:
+      213: -5171530466099598777
+    second: sprite-action-black_283
+  - first:
+      213: -2188253998998645851
+    second: sprite-action-black_284
+  - first:
+      213: 396210331730186364
+    second: sprite-action-black_285
+  - first:
+      213: 3091815773158228320
+    second: sprite-action-black_286
+  - first:
+      213: -2255950648874852747
+    second: sprite-action-black_287
+  - first:
+      213: -689420812859552286
+    second: sprite-action-black_288
+  - first:
+      213: 2933420182746385443
+    second: sprite-action-black_289
+  - first:
+      213: -4745061849520247309
+    second: sprite-action-black_290
+  - first:
+      213: 2244889298046246189
+    second: sprite-action-black_291
+  - first:
+      213: -8302935007322151414
+    second: sprite-action-black_292
+  - first:
+      213: 2609007772245028103
+    second: sprite-action-black_293
+  - first:
+      213: 5206102562384779044
+    second: sprite-action-black_294
+  - first:
+      213: 8186002786392080296
+    second: sprite-action-black_295
+  - first:
+      213: 6634243961201451693
+    second: sprite-action-black_296
+  - first:
+      213: 2808858548187018103
+    second: sprite-action-black_297
+  - first:
+      213: -4277867084182149655
+    second: sprite-action-black_298
+  - first:
+      213: -2796045850365268147
+    second: sprite-action-black_299
+  - first:
+      213: 7793888417531707410
+    second: sprite-action-black_300
+  - first:
+      213: -5388499424698456269
+    second: sprite-action-black_301
+  - first:
+      213: -7108666098093286808
+    second: sprite-action-black_302
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-action-black_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 450
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c4b3a4c78e8a90800000000000000
+      internalID: -7309755866545863505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ad35c8141c05a0800000000000000
+      internalID: -6553841261109991048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 461
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9b6f1e3f4cf620800000000000000
+      internalID: 2809207395806059681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049daf36cc1bdb5c0800000000000000
+      internalID: -4198003786230605504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 451
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1883b1c39a1cb5570800000000000000
+      internalID: 8456565657920288897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 456
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216700e074a565d0800000000000000
+      internalID: -3069866766281252571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f44656cce92aa380800000000000000
+      internalID: -8959302411783617294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 451
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27240c50a75325380800000000000000
+      internalID: -8984059508451949966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 450
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a3c49c17f4df240800000000000000
+      internalID: 4827101725738154530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 450
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f2d03bd00ceed0800000000000000
+      internalID: -2383529161368864532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 453
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568a79112d433f50800000000000000
+      internalID: 6859911461972117077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb0844f69c97b30800000000000000
+      internalID: 4285678000147578590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 452
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc312113102dc8310800000000000000
+      internalID: 1408731686020191180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 450
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698270f386bae210800000000000000
+      internalID: 1363102515024005486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 450
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c13374abd8eb840800000000000000
+      internalID: 5241782847503801495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 451
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14863cd96606ae20800000000000000
+      internalID: 3361381223614546972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 450
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bc52a9e7be87170800000000000000
+      internalID: 8176544052475710251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 449
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a815eaff74af80800000000000000
+      internalID: -8096205514543160011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9743add9213606b0800000000000000
+      internalID: -5330519053064517732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 453
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63ee8c40c959640800000000000000
+      internalID: 5086142898549700325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d9de17f247e260800000000000000
+      internalID: 7126738564479047190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 418
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db6adcffa51b650800000000000000
+      internalID: 6246874212853005585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 419
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145216e931c186c0800000000000000
+      internalID: -4142817727786888170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 418
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615c6fa634353610800000000000000
+      internalID: 1600242652076069216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 419
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e137ab81cc015220800000000000000
+      internalID: 2472771695814324710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 419
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037ca94cceec78520800000000000000
+      internalID: 2704357617565353776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 419
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dae57711a68b1a0800000000000000
+      internalID: -6793563414638711465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 421
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f205a40f4e8c30800000000000000
+      internalID: 4363511970335486191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 430
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02097e035b91193e0800000000000000
+      internalID: -2048828089476607968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 418
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5af005f212f6cf50800000000000000
+      internalID: 6901469642225678938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 418
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134400a6bec4e28b0800000000000000
+      internalID: -5175114347822693327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 428
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd93f69fe8d0c50800000000000000
+      internalID: 6633115028150672611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 419
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2911c643b2eafa60800000000000000
+      internalID: 7708722971812108589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 420
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020fb6e0da56d8650800000000000000
+      internalID: 6236752852923707424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_34
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 429
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87932bc287ce536f0800000000000000
+      internalID: -705397765723506312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 418
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2448abb0628a12b30800000000000000
+      internalID: 4260871603828196418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 418
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d380ffeab1bafd0800000000000000
+      internalID: -2329737943817110238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 418
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d35fb13a0b0c40800000000000000
+      internalID: 5479484580405957862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 418
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366015d88afffab40800000000000000
+      internalID: 5453858773159446115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 419
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75085718953dcab50800000000000000
+      internalID: 6605887134823186519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 386
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0e3ece51a6cd20800000000000000
+      internalID: 3298501205654637714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 391
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5981fb8c7c298e00800000000000000
+      internalID: 1047417301775780190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a8a6897d231a40800000000000000
+      internalID: 5337659983337662101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 386
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e896918212f3a0800000000000000
+      internalID: -6633218953376635295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 386
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e46f713cbf25b0800000000000000
+      internalID: -5390883308162455624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 387
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862208765a89f3c00800000000000000
+      internalID: 882591888161383016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 387
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f40d205875971500800000000000000
+      internalID: 366926238627726581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 386
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399b494dcf0e0960800000000000000
+      internalID: 7570005398028785973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 386
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324456d5b6d978e50800000000000000
+      internalID: 6811586045875143715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 397
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab61e5fd891e3980800000000000000
+      internalID: -8557374144451089499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 386
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaeb1791ead6b200800000000000000
+      internalID: 195584296274881255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 386
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9296ebde5746e9780800000000000000
+      internalID: -8674385374606366423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 386
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac0ee6a158d0ec0800000000000000
+      internalID: -3599074178623288709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 387
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ece637728266a20800000000000000
+      internalID: 3055173547122937474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 387
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81affbf13182a70800000000000000
+      internalID: 8802306498781386937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 390
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e21c543e83a940800000000000000
+      internalID: 5306241141506760966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 386
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169fcf4c6af071f0800000000000000
+      internalID: -1049063370074909154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 386
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20677aa63a16c96e0800000000000000
+      internalID: -1829479994122340862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab16c70817f5900800000000000000
+      internalID: 675383265785395737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 355
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369dfe811fff52220800000000000000
+      internalID: 2460654182398417251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 369
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77f55635cd88d70800000000000000
+      internalID: 9045722102314792870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_61
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 354
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5640abb0a2d56b90800000000000000
+      internalID: -7249156437398501797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 355
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af79958476eb110800000000000000
+      internalID: 1278572904658237998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 355
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2853778fec01bb0800000000000000
+      internalID: -4967242822442450220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda8e1a76b9d3fc0800000000000000
+      internalID: -3513481264878801455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff7a3be101f2f2f0800000000000000
+      internalID: -940424381623271429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 358
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef130bb816f050f30800000000000000
+      internalID: 4541052710902837758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 354
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d58e17ad382bd6f0800000000000000
+      internalID: -658888675217734192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 365
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6510e79482afd5f40800000000000000
+      internalID: 5719002152769028438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_69
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 355
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e75f05796d2f130800000000000000
+      internalID: 3599174997609119262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 354
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e90b68b07d91910800000000000000
+      internalID: 1808713169870298651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 355
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bddc3616c66cac0800000000000000
+      internalID: -3835258867117335777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_72
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 354
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fa0ffd7cba32b0800000000000000
+      internalID: -5603959536973318979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c810ef54431215c0800000000000000
+      internalID: -4246310314269730624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 359
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051cf7e4feef0bd60800000000000000
+      internalID: 7904097649802854736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 357
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02a2ee0142e8a70800000000000000
+      internalID: 8831035574453936305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 359
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547aabc5641e4e10800000000000000
+      internalID: 2183705296762467423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2395470efa70c1d0800000000000000
+      internalID: -3332528492791885014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 361
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2b8401e5dc5470800000000000000
+      internalID: 8384811768677608645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_79
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 361
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd805e32065982240800000000000000
+      internalID: 4767224445723281627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 361
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57453c3b5e110b2d0800000000000000
+      internalID: -3265090051582503819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 364
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487eef22acbcdfc60800000000000000
+      internalID: 7853657394234976132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_82
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 354
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84302034aa46275a0800000000000000
+      internalID: -6525042227675004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 357
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bf3fb536259b10800000000000000
+      internalID: 1987536822837688401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_84
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 357
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22416cc32e2e0bc10800000000000000
+      internalID: 2067401690273158178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 323
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d0f4216576a400800000000000000
+      internalID: 335084282377720473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_86
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 323
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447f7545e022f7b0800000000000000
+      internalID: -5192051251319180224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 323
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f363f43f0e63d50800000000000000
+      internalID: 6716803229880303411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_88
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 327
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa00125dd3749fcf0800000000000000
+      internalID: -218064776056471382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 321
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d40441f9c2417c0800000000000000
+      internalID: -4101604298876498625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_90
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 324
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f683f2ceabd532d0800000000000000
+      internalID: -3299489608337488143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 321
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c3a15104e3a1c0800000000000000
+      internalID: -4493497308869834450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af1530d4331c000800000000000000
+      internalID: 54381076366359070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_93
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 331
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea2357c3184e0a80800000000000000
+      internalID: -8498776197015852308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_94
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 325
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3ee6519f23e6d0800000000000000
+      internalID: -2962471828604437878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_95
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 323
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7fa6266a33c4bd0800000000000000
+      internalID: -2644682091464558613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030cb2a4eb5f4a7d0800000000000000
+      internalID: -2907929261737525200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_97
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 325
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e15899c849e8e0800000000000000
+      internalID: -1663718556655558069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_98
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 329
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7edf622d6ac871a0800000000000000
+      internalID: -6811471866319872387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 320
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891a3212e9f2de800800000000000000
+      internalID: 643222677991170456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 325
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32982ad0b5f09440800000000000000
+      internalID: 4940718931148575295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_101
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 331
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f9833d4aa53210800000000000000
+      internalID: 1312142115002251432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_102
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 326
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e281ba89d97f3740800000000000000
+      internalID: 5133956075467408097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 326
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157e309c8482da10800000000000000
+      internalID: 1932752929345664284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 326
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050769b2fdd96080800000000000000
+      internalID: -9193573129737796349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_105
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 324
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c8da60a1c62340800000000000000
+      internalID: 4838767744387694668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_106
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 296
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e42d98516173370800000000000000
+      internalID: 8302128719843184267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 292
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466583fb7904179b0800000000000000
+      internalID: -5084211483832199580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_108
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 291
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed3d355d8e1e7f0800000000000000
+      internalID: -584930473649381737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_109
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 291
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc37744ff5e5000800000000000000
+      internalID: 26564150586232148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d12af0686f820260800000000000000
+      internalID: 7062364844136735193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 291
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eba2e11b9fa1da0800000000000000
+      internalID: -5973187416642896296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_112
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 292
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1413d15acd6995c0800000000000000
+      internalID: -4208211661077408740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_113
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad3c32e91a4fca0800000000000000
+      internalID: -5983980304291603809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_114
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f70619460bf38d0800000000000000
+      internalID: -2864376892002107535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 291
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d9f868badf728c0800000000000000
+      internalID: -4023968828893455086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f420178681ab40800000000000000
+      internalID: 5449784938744574450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_117
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 290
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10af6846926254c90800000000000000
+      internalID: -7186295671177676287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_118
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 290
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f2b773bd5272230800000000000000
+      internalID: 3613898849446997803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 292
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b10ba0a92c6d1b0800000000000000
+      internalID: -5632100317120160877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_120
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 291
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51546a0f407ad8150800000000000000
+      internalID: 5876536728447501589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 298
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84fa4183ebde1ee0800000000000000
+      internalID: -1288350673208150901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_122
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 291
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4089105ddb18500800000000000000
+      internalID: 396806964737737895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_123
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 291
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ceb8609ca764d10800000000000000
+      internalID: 2109508479286504522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_124
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 260
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dbc4c9c9210b4e0800000000000000
+      internalID: -1968052573314433678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_125
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 267
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e588c64bab00b10800000000000000
+      internalID: 1945760323101810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_126
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372cd964bb44de00800000000000000
+      internalID: 1068562249835882301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_127
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f05fa74b914b40800000000000000
+      internalID: 5422786158517088341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 259
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71667deebe961310800000000000000
+      internalID: 1375461279073198460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_129
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 259
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3e767c4b426c70800000000000000
+      internalID: 8962809000198291016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_130
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 258
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90037cc7ccb5abd90800000000000000
+      internalID: -7081246530261798903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_131
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 269
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bd489c7627aed0800000000000000
+      internalID: -2402909559605839740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_132
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 259
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078029abd2565d150800000000000000
+      internalID: 5896730534189598832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_133
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5694febd828f98e0800000000000000
+      internalID: -1684484190307576229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_134
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66b140b2e06b010800000000000000
+      internalID: 1204165528283473609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_135
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 258
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ff1c50265cdc40800000000000000
+      internalID: 5538396338743408218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_136
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 259
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd57319a5d2da540800000000000000
+      internalID: 5020719026594602441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_137
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474d09aeb7b4f880800000000000000
+      internalID: -8578029360726063296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_138
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 258
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a0ffe2c57db820800000000000000
+      internalID: 2935632012225061249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_139
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 259
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b7121f20ceed40800000000000000
+      internalID: 5615637093777126235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_140
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db1ae8344af55d0800000000000000
+      internalID: -3071555810780660403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_141
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 259
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce19105ad5033a50800000000000000
+      internalID: 6499545122430590657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_142
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 235
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8391390dcc0d87d0800000000000000
+      internalID: -2914659309076769906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_143
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 227
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767cb7a10d7058900800000000000000
+      internalID: 685963108622780263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_144
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2643f402678a3d0f0800000000000000
+      internalID: -1093345059219229598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_145
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448d5c3e54f1ad50800000000000000
+      internalID: 6746942402354578502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_146
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c3925efe3a2b40800000000000000
+      internalID: 5416210763894474201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 226
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4538a1a28002c1f0800000000000000
+      internalID: -1026257204029147826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 226
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192583374a3077150800000000000000
+      internalID: 5870164644143321745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_149
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bbd5b6b948d140800000000000000
+      internalID: 4744623256518766747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_150
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774aa7c377b4c730800000000000000
+      internalID: 4018538475420272508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_151
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 226
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99948c3f27f831450800000000000000
+      internalID: 6058343647622482329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_152
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617afd33dff69fcb0800000000000000
+      internalID: -4829705992090441962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_153
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d8617d7af6df330800000000000000
+      internalID: 3746273231700921674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_154
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 229
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44f55ddc1088f90800000000000000
+      internalID: -6951304041286646546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_155
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 229
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc7e00774a8edfd0800000000000000
+      internalID: -2315261118994547497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_156
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 226
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b73a76fcba8a1c0800000000000000
+      internalID: -4492151721016722539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_157
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abce13fef50feac0800000000000000
+      internalID: -3823830966055547995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_158
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 239
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9421d9c500b151780800000000000000
+      internalID: -8713028215710608823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_159
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c56103e3fa6ab0800000000000000
+      internalID: -5013927078817054638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_160
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 226
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b9cd4df8f0b1b0800000000000000
+      internalID: -5642736566279751952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_161
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 226
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5443b1eb22607d40800000000000000
+      internalID: 5580067878921782363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_162
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 234
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2155f6bc5017290800000000000000
+      internalID: -7894522300499422467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_163
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 234
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745594f9835ab66b0800000000000000
+      internalID: -5301962473689492153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_164
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 229
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6fc22ed214dae30800000000000000
+      internalID: 4516337666646406898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_165
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 229
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a964d46dbe15660800000000000000
+      internalID: 7372933370634214034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_166
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ba4b58ab3a4020800000000000000
+      internalID: 2326737751762448654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e3e30fcebc30950800000000000000
+      internalID: 6414194512809049702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_168
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8dcea76dcd9e840800000000000000
+      internalID: 5253973254047848683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_169
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61bcf63137369d60800000000000000
+      internalID: 7896559681156198765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_170
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165c57482d441f000800000000000000
+      internalID: 67911140343399777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_171
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda1bfc6355e4d40800000000000000
+      internalID: 5570483483005005270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_172
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd9e1c90c37d570800000000000000
+      internalID: 8491321635036061524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_173
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e61c397e60f850800000000000000
+      internalID: 6408743736726447284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_174
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 195
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fd9f09fae6dee0800000000000000
+      internalID: -1236542692236855320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_175
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 196
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b894b29f069a70800000000000000
+      internalID: 8833264841903354688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_176
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 209
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4aad0489bf72150800000000000000
+      internalID: 5847919272505550046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_177
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 204
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff208cdd36e6d700800000000000000
+      internalID: 564891956648357883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_178
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c65e9c96267450800000000000000
+      internalID: 6086094400551044527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_179
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 205
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51455a8f66a197dd0800000000000000
+      internalID: -2487928289584917483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_180
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 205
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0094671f31414f800800000000000000
+      internalID: 645162722508818688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_181
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 205
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d44e9eb5bc3510800000000000000
+      internalID: 1530297803702851332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 201
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a8074ffec1e7a0800000000000000
+      internalID: -6349566403811957074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_183
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 201
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e48b79d8be36270800000000000000
+      internalID: 8242690736386494014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_184
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 195
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f0357af06dfad10800000000000000
+      internalID: 2139163710744366868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_185
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a67b10c568c373a0800000000000000
+      internalID: -6668766283865295199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_186
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 198
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e71a26bbc806db0800000000000000
+      internalID: -4800682466335424920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_187
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 198
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8161cf4f78b8b90800000000000000
+      internalID: -7238542489796863763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_188
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 198
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75052d6c4554a8680800000000000000
+      internalID: -8752106695425896361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_189
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 162
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce06c3d09744a4330800000000000000
+      internalID: 3695841730914705644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_190
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad0220d100ff49d0800000000000000
+      internalID: -2787745753741521497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_191
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 165
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cabeef44df987b0800000000000000
+      internalID: -5221363820182918046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_192
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4a1a5c010141320800000000000000
+      internalID: 2527662955082917110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_193
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c6fe9cf575f1af0800000000000000
+      internalID: -423523771028116468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_194
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 162
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4925568e010ffc0800000000000000
+      internalID: -3463249523129543493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_195
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388fb3982b0a86160800000000000000
+      internalID: 7019036707923949699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_196
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfa2a0ac02988130800000000000000
+      internalID: 3569263287623397333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_197
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 162
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5fbe96d48959c0800000000000000
+      internalID: -3937970341837578410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_198
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534950b4f520cd9d0800000000000000
+      internalID: -2748319064299039691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_199
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 162
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1335471f1f38be00800000000000000
+      internalID: 1060667115012698906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_200
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 172
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff72956e54f57640800000000000000
+      internalID: 5077232841198305267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_201
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28e8a8099aa91e0800000000000000
+      internalID: -2190251830497344791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_202
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b38b5439e295940800000000000000
+      internalID: 5285306847760759553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_203
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 172
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983760089e47bd450800000000000000
+      internalID: 6114609465309688713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_204
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc97382fa91e270800000000000000
+      internalID: 8278067956462242616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_205
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 172
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f4bc086b781000800000000000000
+      internalID: 6891086261056379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_206
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 163
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977bdea0b0ecd99d0800000000000000
+      internalID: -2765828049312303239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_207
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 166
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190572f97484cdf40800000000000000
+      internalID: 5754553896322683025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_208
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 166
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2586ce27bff7d0800000000000000
+      internalID: -2882383824966832224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_209
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 173
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1eb485121c5fb40800000000000000
+      internalID: 5473493271098155509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_210
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 166
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a213ef71341621670800000000000000
+      internalID: 8507969586849526058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_211
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af140a731e8d720800000000000000
+      internalID: 2871292391476820615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_212
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 143
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c775bbf25d428ec20800000000000000
+      internalID: 3235876830313142140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_213
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aef07a1c29f3990800000000000000
+      internalID: -7404037901944624609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_214
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 132
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33569350ce9f95c0800000000000000
+      internalID: -4206468978067483844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_215
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214db2bb820572640800000000000000
+      internalID: 5055097242615796754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_216
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 132
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaaf3dd772330c20800000000000000
+      internalID: 3171434052993395454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_217
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f326c72f3c95c90800000000000000
+      internalID: -7180492684629229696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_218
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 131
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a76ffbbdfd35a30800000000000000
+      internalID: 4202949012178237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_219
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd57f4ec4ee9f250800000000000000
+      internalID: 5979071994337385942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_220
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 129
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778cf3d6ca41f270800000000000000
+      internalID: 8282483407531575165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_221
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5fa6b6e1f745990800000000000000
+      internalID: -7398148519234964045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_222
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 130
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae18124dff3144a0800000000000000
+      internalID: -6610932421035024728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_223
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 134
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f89237ca29d03b0800000000000000
+      internalID: -5544614296859078770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_224
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf907016cfc5510c0800000000000000
+      internalID: -4605672804887098884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_225
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 135
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be35328725acda50800000000000000
+      internalID: 6547289547396693680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_226
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57368e5b801677510800000000000000
+      internalID: 1546811687064593269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_227
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 140
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e38c19ff822a80800000000000000
+      internalID: -8493067647179300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_228
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 140
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ada7166b7310320800000000000000
+      internalID: 2522358522763205258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_229
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 140
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65152a41c48298a90800000000000000
+      internalID: -7311268212830482090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_230
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 131
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635c99f060b0d7b0800000000000000
+      internalID: -5201463639061802132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_231
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 141
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ffe3b9bb9e93a0800000000000000
+      internalID: -6656711977316911629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_232
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d132c50b008c6a0800000000000000
+      internalID: -6428887710611333823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_233
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5231022eaace17640800000000000000
+      internalID: 5076098473705607973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4abb7fbc5bae510800000000000000
+      internalID: 1579274506986038478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_235
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4bb129eae84b30800000000000000
+      internalID: 4271922533575118591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_236
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1698b010c62bfe0800000000000000
+      internalID: -1174757801045958193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_237
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 129
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41f93e1375521290800000000000000
+      internalID: -7921174841674567350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_238
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 134
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f900ef38921461cd0800000000000000
+      internalID: -2587809289313845089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_239
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c234fd06f9f27fb0800000000000000
+      internalID: -4651380629928922426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_240
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 104
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf4b245e5719bf60800000000000000
+      internalID: 8050491502807961535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_241
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355ecb9bff4de530800000000000000
+      internalID: 3885849995559982387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_242
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ddf1b2f4191d60800000000000000
+      internalID: 7861337657152754141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_243
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc22fe059881e60800000000000000
+      internalID: 7933241724315553088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_244
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 99
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a3623d90822f9e0800000000000000
+      internalID: -1589163695846049154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_245
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 98
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7b154cb67b3360800000000000000
+      internalID: 7150439384366152301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_246
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97aed23cf3136050800000000000000
+      internalID: 5792495519634728858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_247
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 99
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d87934cadd18f60800000000000000
+      internalID: 8034946942143794517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_248
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 115
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f509b036c8972a60800000000000000
+      internalID: 7649250469100455410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_249
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe9ce97bcb61ca0800000000000000
+      internalID: -6046437952869240881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_250
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 98
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b6fa6abe86f7a0800000000000000
+      internalID: -6343726093795149626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_251
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98385df181d04d820800000000000000
+      internalID: 2941990853844239241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_252
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 105
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b383096e62d0671b0800000000000000
+      internalID: -5659321421016319941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_253
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d34ec4e3c550e0800000000000000
+      internalID: -2281702248712775840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_254
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e1c2b70d5b55a40800000000000000
+      internalID: 5356387238851386970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_255
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57ecc7f750d5ae80800000000000000
+      internalID: -8167893272928393378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_256
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 101
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff6f04653a59370800000000000000
+      internalID: 8328742676744044487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_257
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 101
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62626a0742ae04c0800000000000000
+      internalID: -4319336566601129364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_258
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 101
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c59363f12d3c7d0800000000000000
+      internalID: -2899242703600919440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_259
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 99
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924d3b03bd0268670800000000000000
+      internalID: 8540549869141742633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_260
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71cc42d4ea6c390800000000000000
+      internalID: -7798354058392365066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_261
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56ab78f6b8443c0800000000000000
+      internalID: -4376219626762508807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_262
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42d27fe1a3edddb0800000000000000
+      internalID: -4765402546041597361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_263
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ceaa8afc8624120800000000000000
+      internalID: 2396593192811818108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_264
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab101c6dd7a24deb0800000000000000
+      internalID: -4696081791478332998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_265
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 75
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0435f2ffa48aca10800000000000000
+      internalID: 1930501281511977998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_266
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521eba9d2d35e6320800000000000000
+      internalID: 2553070203825807653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_267
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b130b520dca0b4860800000000000000
+      internalID: 7515112278821896987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_268
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 67
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5b55b4582f99c50800000000000000
+      internalID: 6672630977234580938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_269
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 71
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a62ba38ce482fd0800000000000000
+      internalID: -2366554982297998705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_270
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd320bdcfe401f70800000000000000
+      internalID: 9155904890357300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_271
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80582f6e6f1d0df60800000000000000
+      internalID: 8057170591732630792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_272
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 72
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57395d4d7d30f050800000000000000
+      internalID: 5832229125822691162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_273
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 67
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96601fe320162a30800000000000000
+      internalID: 4190054249835554460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_274
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 68
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9df5acf91a47040800000000000000
+      internalID: 4644514823392975326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_275
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d448e189de984fb0800000000000000
+      internalID: -4663302757117573934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_276
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41917a900870500800000000000000
+      internalID: 362399073973114054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_277
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5e8983bc058e20800000000000000
+      internalID: 3352099462893690569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_278
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 66
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945342a3ec219a890800000000000000
+      internalID: -7446399831932390071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_279
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 66
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50500371e9d723dd0800000000000000
+      internalID: -2507803924544617211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_280
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 65
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c7872a1d728150800000000000000
+      internalID: 5873394415330379891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_281
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 67
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704751134ce87f230800000000000000
+      internalID: 3672560994432152583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_282
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 42
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60185888edf2f510800000000000000
+      internalID: 1581605594322178159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_283
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae507e0780b38b0800000000000000
+      internalID: -5171530466099598777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_284
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 38
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39b5fe492c1a1e0800000000000000
+      internalID: -2188253998998645851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_285
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701e1f823f9f7500800000000000000
+      internalID: 396210331730186364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_286
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061cb06801658ea20800000000000000
+      internalID: 3091815773158228320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_287
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e900f56d041b0e0800000000000000
+      internalID: -2255950648874852747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_288
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 32
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edceb46c6fae66f0800000000000000
+      internalID: -689420812859552286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_289
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c4f814d1a95b820800000000000000
+      internalID: 2933420182746385443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_290
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd66166367262eb0800000000000000
+      internalID: -4745061849520247309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_291
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 38
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d5f123ce2772f10800000000000000
+      internalID: 2244889298046246189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_292
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 40
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0668670a9c06cc80800000000000000
+      internalID: -8302935007322151414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_293
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 38
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de5e8eebe053420800000000000000
+      internalID: 2609007772245028103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_294
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 35
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427123782bacf3840800000000000000
+      internalID: 5206102562384779044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_295
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 35
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aff145b9268a9170800000000000000
+      internalID: 8186002786392080296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_296
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da261b4abb1911c50800000000000000
+      internalID: 6634243961201451693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_297
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 34
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b105b7f11bf620800000000000000
+      internalID: 2808858548187018103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_298
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5acf25d86f1a4c0800000000000000
+      internalID: -4277867084182149655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_299
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe549fc137239d0800000000000000
+      internalID: -2796045850365268147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_300
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104202d834792c60800000000000000
+      internalID: 7793888417531707410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_301
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a37e92543835b0800000000000000
+      internalID: -5388499424698456269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-action-black_302
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a994cd8d1f85d90800000000000000
+      internalID: -7108666098093286808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
